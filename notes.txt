@@ -1,0 +1,2 @@
+- display ko lahat nang blogs na may comment na E
+- sorting of blogs alphabetical, date
